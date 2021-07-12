@@ -18,7 +18,7 @@ El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionard
 
   En general, las tendencias de investigación son pocas. Sin embargo, considerando el poco impacto y el mal recibimiento que obtuvo el pensamiento de piquiano en su tiempo, el hecho de aún poder leer sus obras y estudiarlas es ganancia en sí mismo. 
     
-    A conituación encontrará unos Podcasts que daran más entendimiento de su filosofía. 
+   A conituación encontrará unos Podcasts que daran más entendimiento de su filosofía. 
     
     [Podcasts parte1](https://drive.google.com/file/d/1JiPF-YpLv8Pu0qN2SYfbSYZHRnUCau_g/view)
     [Podcasts parte2](https://drive.google.com/file/d/1J-NOzOYK4Fg_PqHx0JJH5dkUdQ8MeHdO/view)
