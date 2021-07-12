@@ -20,9 +20,9 @@ El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionard
     
    A conituación encontrará unos Podcasts que daran más entendimiento de su filosofía. 
     
-    [Podcasts parte1](https://drive.google.com/file/d/1JiPF-YpLv8Pu0qN2SYfbSYZHRnUCau_g/view)
-    [Podcasts parte2](https://drive.google.com/file/d/1J-NOzOYK4Fg_PqHx0JJH5dkUdQ8MeHdO/view)
-    [Podcasts parte3](https://drive.google.com/file/d/19urbWSuisUm182iJ-2KeXaq9ra2wmUTR/view)
+    Podcasts parte1: https://drive.google.com/file/d/1JiPF-YpLv8Pu0qN2SYfbSYZHRnUCau_g/view
+    Podcasts parte2: https://drive.google.com/file/d/1J-NOzOYK4Fg_PqHx0JJH5dkUdQ8MeHdO/view
+    Podcasts parte3: https://drive.google.com/file/d/19urbWSuisUm182iJ-2KeXaq9ra2wmUTR/view
 
   Podemos afirmar que la filosofía piquiana, actualmente, puede sernos de buena utilidad para comprender el pensamieto renacentista. Pero no podemos ignorar la revolución de pensamieto que planteaba su filosofía. desafiar a la iglesia, a las costumbres en un tiempo donde ello significaba muerte es digno de admirar.
   
