@@ -44,8 +44,7 @@ El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionard
   1. Mirandola, G. P. (2010). Discurso sobre la dignidad del hombre. Revista Digital Universitaria, 6.
   2. Mirandola, G. P. (2014). Las 900 Tesis. (E. P. Saisó, Trad.) México: Coordinación de Humanidades.
 
-FUENTES SECUNDARIAS
-
+    FUENTES SECUNDARIAS:
   3. Galán, L. E. (2016). Del mito al logos moderno: Giovanni Pico Della Mirandola o el hombre en busca de la imagen. Logos. Anales del seminario de metafísica , 23.
   4. Gross, M. A. (2020). Tensiones y debates sobre una concepción antropológica en el Renacimiento: las categorías de magnum miraculum y copula mundi en el pensamiento de Marsilio FIcino y Giovanni Pico della Mirandola . eikasia, 26.
   5. Peralta, R. M. (17 de Junio de 2021). TESIUNAM Digital. Obtenido de http://132.248.9.195/ptd2016/abril/0742494/Index.html
