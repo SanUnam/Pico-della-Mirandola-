@@ -2,6 +2,8 @@
 layout : page
 title: about
 ---
+Pico della Mirandola. Pensamiento e impacto.
+
 El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionardo Bruno, Leonardo Bruni. Al igual que el arte y la arquitectura con sus principales reprsentantes clásicos: Miguel Angel, Leonardo, Donatelo. Mismos que aún impactan en nuestros tiempos. Desgraciadamente, no es el caso de Pico della Mirandola.
 
   Sus principales obras *Discurso sobre la dignidad del hombre* y *Las 900 tesis" en su momento (1946), por el prejuicio de la época, no fueron bien recbidos ni condujeron a la dialéctica deseada. Sus escritos, o más propiadmente la filosofía que contenían, son refelejo de la revolución de pensamiento que tomaría fuerza en el siglo a venir. Sin embargo, él no resulto protaginista com tal en los libros de historia.
@@ -18,9 +20,9 @@ El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionard
     
     A conituación encontrará unos Podcasts que daran más entendimiento de su filosofía. 
     
-    [Uploading Podcast 1.mp3…]()
-    [Uploading Podcast 2.mp3…]()
-    [Uploading Podcast 3.mp3…]()
+    https://drive.google.com/file/d/1JiPF-YpLv8Pu0qN2SYfbSYZHRnUCau_g/view
+    https://drive.google.com/file/d/1J-NOzOYK4Fg_PqHx0JJH5dkUdQ8MeHdO/view
+    https://drive.google.com/file/d/19urbWSuisUm182iJ-2KeXaq9ra2wmUTR/view
 
   Podemos afirmar que la filosofía piquiana, actualmente, puede sernos de buena utilidad para comprender el pensamieto renacentista. Pero no podemos ignorar la revolución de pensamieto que planteaba su filosofía. desafiar a la iglesia, a las costumbres en un tiempo donde ello significaba muerte es digno de admirar.
   
@@ -43,6 +45,7 @@ El reanacimiento arrojó bastantes pensadores a la historia: Copérnico, Gionard
   2. Mirandola, G. P. (2014). Las 900 Tesis. (E. P. Saisó, Trad.) México: Coordinación de Humanidades.
 
 FUENTES SECUNDARIAS
+
   3. Galán, L. E. (2016). Del mito al logos moderno: Giovanni Pico Della Mirandola o el hombre en busca de la imagen. Logos. Anales del seminario de metafísica , 23.
   4. Gross, M. A. (2020). Tensiones y debates sobre una concepción antropológica en el Renacimiento: las categorías de magnum miraculum y copula mundi en el pensamiento de Marsilio FIcino y Giovanni Pico della Mirandola . eikasia, 26.
   5. Peralta, R. M. (17 de Junio de 2021). TESIUNAM Digital. Obtenido de http://132.248.9.195/ptd2016/abril/0742494/Index.html
